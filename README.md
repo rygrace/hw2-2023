@@ -1,2 +1,1 @@
-# hw2-2023
-<h1>Grace Ryder</h1>
+# 539w2023_hw2_simple_css
